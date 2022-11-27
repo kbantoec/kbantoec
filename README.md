@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I love to bring programming projects to life
+
+My passion lies at the intersection of data science and quantitative finance. In particular, the deployment of machine learning algorithms in the field of trading.
+
+I am a Business Analyst at Groupe Mutuel, a Swiss insurance company, in the Data & Analytics department. I enjoy working with data scientists!
+
+### What I do for fun
+* Permaculture gardener 🌱
+* Cooking magic potions and making bread 🍞
+* Apprentice full stack quantitative finance MLOps engineer 👨‍💻
+
+### My next programming language
+* Rust ✨ 
