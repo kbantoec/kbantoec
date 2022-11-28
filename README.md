@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My passion lies at the intersection of data science and quantitative finance. In particular, the deployment of machine learning algorithms in the field of trading.
 
-I am a Business Analyst for a Swiss insurance company, in the Data & Analytics department. I enjoy collaborting with data scientists!
+I am a Business Analyst for a Swiss insurance company, in the Data & Analytics department. I enjoy collaborating with data scientists!
 
 ### What I do for fun
 * Permaculture gardener 🌱
