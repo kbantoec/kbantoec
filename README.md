@@ -24,7 +24,7 @@ I am a Business Analyst for a Swiss insurance company, in the Data & Analytics d
 ### What I do for fun
 * Permaculture gardener 🌱
 * Cooking magic potions and making bread 🍞
-* Apprentice full stack quantitative finance MLOps engineer 👨‍💻
+* Apprentice full stack quantitative finance & MLOps engineer 👨‍💻
 
 ### My next programming language
 * Rust ✨ 
